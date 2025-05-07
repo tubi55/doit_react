@@ -5,6 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/doit_react19/",
+  base: "/doit_react/",
   plugins: [react(), tailwindcss()],
 });
